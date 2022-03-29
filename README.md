@@ -14,5 +14,5 @@ The challenge is to build out this QR code component and get it looking as close
 
 ### My Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/qr-code-component-rJrVHaeQq)
+- Live Site URL: [QR-code Hosted by Netlify](https://qr-code-tonyruizo.netlify.app/)
